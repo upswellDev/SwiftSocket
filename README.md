@@ -1,4 +1,4 @@
-# SwiftSocket
+# SwiftSocket (check)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/SwiftSocket.svg)](https://cocoapods.org/pods/SwiftSocket)
 [![CocoaPods Platforms](https://img.shields.io/cocoapods/p/SwiftSocket.svg)](https://img.shields.io/cocoapods/p/SwiftSocket.svg)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
